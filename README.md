@@ -44,7 +44,7 @@ The dashboard is divided into **multiple analytical sections**, each highlightin
 ---
 
 ### Product Variety & Pricing Analysis
-![Pricing and Variety Analysis](Images/details.png)
+![Pricing and Variety Analysis](https://github.com/Tejas2906/Men-s-Fashion-Brand-Analysis-Dashboard/blob/1dd57709b50fbf8119ca1f9a25213c2620b49362/images/top%20brands%20by%20number%20of%20varieties%20and%20average%20sales%20.jpg)
 
 **Key Insights:**
 - Shows **top brands by number of product varieties**
