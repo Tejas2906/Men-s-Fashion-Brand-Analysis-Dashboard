@@ -23,7 +23,7 @@ The dashboard is divided into **multiple analytical sections**, each highlightin
 ---
 
 ### Brand Collection Overview
-![Brand Collection](Images/brands.png)
+![Brand Collection](https://github.com/Tejas2906/Men-s-Fashion-Brand-Analysis-Dashboard/blob/b4306577dfa2d260df9a0050da35cdd2f9e2ffec/brands.jpg)
 
 **Key Insights:**
 - Displays available men’s fashion brands
