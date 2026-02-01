@@ -65,7 +65,7 @@ The dashboard is divided into **multiple analytical sections**, each highlightin
 
 ## Dataset Information
 
-- Source: Men’s T-shirt sales dataset (CSV format)
+- Source: Men’s T-shirt sales dataset (https://github.com/Tejas2906/Men-s-Fashion-Brand-Analysis-Dashboard/blob/fbbc5625095e2ff98485b3a5895e2826acd07b3f/Men%2BTshirt.csv)
 - Includes:
   - Brand names
   - Discount percentage
