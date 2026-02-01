@@ -33,7 +33,7 @@ The dashboard is divided into **multiple analytical sections**, each highlightin
 ---
 
 ### Discount & Profit Analysis
-![Discount and Profit Analysis](Images/details.png)
+![Discount and Profit Analysis](https://github.com/Tejas2906/Men-s-Fashion-Brand-Analysis-Dashboard/blob/33cb9abf5cfa29cd532c7060de933d8d455c441a/images/top%20brands%20by%20average%20discount%20and%20profit.jpg)
 
 **Key Insights:**
 - Identifies **top 5 brands by average discount %**
